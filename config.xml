@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8">
+
+<widget 
+	xmlns 		= "http://www.w3.org/ns/widgets"
+ 	xmlns:gap 	= "http://phonegap.com/ns/1.0"
+  	id 			= "com.allthebest.candyapp"
+  	versioncode = "1"
+  	version 	= "1.0" >
+  
+  <description>
+  A simple app to display candy that is for sale
+  </description>
+  
+<author 
+  	href		= "http://www.hereandnow.com" 
+  	email 		= "rota333@resists.org">
+  	Alex Freeman 
+</author>
+
+<gap:platform name ="ios" />
+<gap:platform name ="android" />
+<gap:platform name ="wiphone" />
+
+<preference name = "phonegap-version" value = "3.3.0" />
+
+<preference name = "orientation" value = "portrait" />
